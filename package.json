@@ -1,0 +1,14 @@
+{
+  "name": "postmanjenkings",
+  "version": "1.0.0",
+  "description": "",
+  
+  "scripts": {
+    "test": "run newman api.json"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "newman": "^5.3.2"
+  }
+}
